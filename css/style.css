@@ -11,6 +11,7 @@ h2{
 span{
   font-weight: bold;
   font-family: cursive;
+  color: white;
 }
 .container{
   width: 90%;
@@ -33,22 +34,43 @@ span{
     float: left;
 }
 #Bio{
+  font-family: monospace;
+  color: green;
   float: right;
+  
 }
 #Bio h2{
   text-align: center;
+  color: green;
 }
 #history{
   margin-top: 2%;
+  margin-left: 5%;
   color: white;
   float: left;
   width: 50%;
   text-align: justify;
   float: left;
-  background-color: ;
 }
 #history h2{
   text-align: left;
   font-family:sans-serif;
+  color: green;
+}
+.experience p{
+  text-align: justify;
+}
+#capabalities{
+  margin-top: 2%;
+  margin-left: 5%;
+  color: white;
+  float: left;
+  width: 50%;
+  text-align: justify;
+  float: left;
+}
+#capabalities h2{
+  text-align: left;
+  font-family: serif;
   color: green;
 }
